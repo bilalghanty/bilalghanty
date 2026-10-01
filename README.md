@@ -1,16 +1,17 @@
-## Hi there 👋
+# Bilal Ghanty
 
-<!--
-**bilalghanty/bilalghanty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IB Diploma student in Mauritius interested in technology, engineering, AI, business and motorsport.
 
-Here are some ideas to get you started:
+I work on real-world projects across **Neetoo Industries**, **Quads Mauritius**, digital systems, business operations and technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+- [Neetoo Industries](https://bilalghanty.github.io/projects/neetoo-industries.html)
+- [360° Virtual Showroom](https://bilalghanty.github.io/360-virtual-showroom.html)
+- [Quads Mauritius](https://bilalghanty.github.io/projects/quads-mauritius.html)
+- [Mauritius Telecom AI Video Contest](https://bilalghanty.github.io/projects/mauritius-telecom-ai-video-contest.html)
+
+## Find me online
+
+- [Website](https://bilalghanty.github.io)
+- [LinkedIn](https://www.linkedin.com/in/bilalghanty/)
